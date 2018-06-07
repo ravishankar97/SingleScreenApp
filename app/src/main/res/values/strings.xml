@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">The Book Store</string>
+    <string name="store_name">The Book store</string>
+    <string name="quote">Books are still our sole companions </string>
+    <string name="categories">Categories</string>
+    <string name="exclusive">For students Exclusive</string>
+    <string name="science">Science Fiction</string>
+    <string name="satire">Satire</string>
+    <string name="action">Action and Romance</string>
+    <string name="mystery">Mystery</string>
+    <string name="horror">Horror</string>
+    <string name="more">...and much more!!</string>
+    <string name="school">School Books and Guides</string>
+    <string name="engineering">Engineering Books</string>
+    <string name="research">Research Books</string>
+    <string name="placements">Books For Placements Preparations</string>
+    <string name="timing">timings :</string>
+    <string name="hour">We operate on WEEK DAYS from 8AM to 8PM</string>
+    <string name="address">address :</string>
+    <string name="place">NO:221, Becker Street, Chennai 600051</string>
+    <string name="online">Order online at </string>
+    <string name="gmail">bookstore@gmail.com</string>
+    <string name="watsapp">Also can order at Watsapp </string>
+    <string name="number">9876543210</string>
+</resources>

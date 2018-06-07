@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE2E2E </color>
+    <color name="colorPrimaryDark">#FF0800</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="store_name">#003366</color>
+    <color name="quote_color">#654321</color>
+    <color name="topic">#8B0000</color>
+    <color name="text_link">#483d8b</color>
+    <color name="background">#ff9800</color>
+    <color name="black">#000000</color>
+</resources>
